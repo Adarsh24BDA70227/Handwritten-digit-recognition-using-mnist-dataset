@@ -86,14 +86,6 @@ Clean, labeled, and preprocessed dataset
 
 3. Robust Convolutional Neural Network (CNN)
 
-4. High Accuracy and Generalization
-
-5. Error Visualization
-
-6. Scalable and Extensible
-
-7. Real-World Applicability
-Digital writing and smart devices
 🧾 Author
 Adarsh Pandey
 🎓 Chandigarh University 📧 adarshpandey15243ap@gmail.com
