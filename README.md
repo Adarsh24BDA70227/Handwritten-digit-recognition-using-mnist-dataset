@@ -60,6 +60,7 @@ Matplotlib	Plotting accuracy/loss graphs
 Seaborn	Confusion matrix visualization
 Pandas	Dataset operations (if needed)
 Sklearn.metrics	Accuracy score, confusion matrix
+
 📌 Key Features of the Project
 1. End-to-End Deep Learning Pipeline
 
