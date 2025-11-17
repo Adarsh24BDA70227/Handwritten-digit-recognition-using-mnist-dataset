@@ -3,7 +3,6 @@ Project- HANDWRITTEN DIGIT RECOGNITION USING MNIST DATASET
 
 The project “Handwritten Digit Recognition using MNIST Dataset” focuses on designing and developing an intelligent system capable of automatically recognizing handwritten digits (0–9) using Deep Learning techniques, specifically Convolutional Neural Networks (CNNs).
 
-Handwritten digits vary widely in style, thickness, slant, and size due to differences in individual handwriting. Traditional rule-based systems and classic machine learning algorithms could not handle this variability effectively. To address this, the project uses image classification with CNNs, which learn meaningful visual features such as edges, curves, and shapes directly from raw image pixels.
 
 The project follows a complete machine learning pipeline:
 
@@ -19,7 +18,6 @@ Testing and performance evaluation
 
 Result analysis and documentation
 
-The trained model achieves a high accuracy on unseen digits, proving its efficiency in recognizing different handwriting styles. Such systems are widely used in banking (cheque processing), postal automation, exam evaluation systems, and digital writing devices.
 
 📌 Technologies Used
 1. Programming Language
@@ -87,48 +85,14 @@ Clean, labeled, and preprocessed dataset
 
 3. Robust Convolutional Neural Network (CNN)
 
-The network includes:
-
-Convolution layers
-
-Pooling layers
-
-Flatten & Dense layers
-
-Softmax output classification
-
-This enables automatic feature extraction without manual design.
-
 4. High Accuracy and Generalization
-
-Achieves high test accuracy
-
-Performs well on unseen handwriting styles
 
 5. Error Visualization
 
-Confusion matrix used to identify misclassified digits
-
-Accuracy and loss curves show training stability
-
 6. Scalable and Extensible
 
-The model can be extended for:
-
-Alphabet recognition
-
-Real-time recognition
-
-Multi-language handwritten text analysis
-
 7. Real-World Applicability
-
-Useful in:
-
-Bank cheque processing
-
-Postal code detection
-
-Automated exam paper evaluation
-
 Digital writing and smart devices
+🧾 Author
+Adarsh Pandey
+🎓 Chandigarh University 📧 adarshpandey15243ap@gmail.com
